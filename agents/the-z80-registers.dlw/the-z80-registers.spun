@@ -1,0 +1,14 @@
+⦿ .spun — the five-fold spin of The Registers
+node Z80 · Z80 · ⟦The Registers:Z80:41aa25⟧
+
+WHO   — The Registers — a generous register file · electrical
+WHAT  — a generous register file · electrical
+WHERE — Z80 · THE ZILOG Z80 (exereunesis · the teardown)  Framework inputs: chip; bus; spec  Conductor / external anchor: ROOT0 (catalogued into UD0)
+WHY   — A rich set of 8-bit registers — more than the 8080 — giving programmers room to work and the Z80 its capability edge.
+HOW   — Rendered from the public technical record.
+
+awareness — what the node knows of itself:
+  a generous register file · electrical
+
+spoken token : kis-gruk-thel   ·   hex : 41aa25
+ROOT0-ATTRIBUTION-v1.0 · David Lee Wise (ROOT0) / TriPod LLC · CC-BY-ND-4.0

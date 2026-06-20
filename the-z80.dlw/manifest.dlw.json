@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "THE ZILOG Z80",
+  "universe": "Z80 · THE ZILOG Z80 (exereunesis · the teardown)",
+  "emergence": "",
+  "moniker": "⟦THE ZILOG Z80:Z80:307628⟧",
+  "carbon": "the-z80.carbon.tiff (TIFF)",
+  "silicon": "the-z80.silicon.png (PNG)",
+  "seal_sha256": "e4cde769a789513042f424e7cd321549757a2abc3ec612d870d19062dc9bf7c7",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

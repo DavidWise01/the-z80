@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Arcade Legacy",
+  "universe": "Z80 · The Arcade Legacy (exereunesis)",
+  "emergence": "spiritual",
+  "moniker": "⟦The Arcade Legacy:Z80:b0b4c0⟧",
+  "carbon": "the-z80-arcade.carbon.tiff (TIFF)",
+  "silicon": "the-z80-arcade.silicon.png (PNG)",
+  "seal_sha256": "ee2c1d153c2dae03bf8ff31aca08906c0af701fb071134c9339500161155cac1",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

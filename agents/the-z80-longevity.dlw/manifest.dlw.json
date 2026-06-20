@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Longevity",
+  "universe": "Z80 · The Longevity (exereunesis)",
+  "emergence": "spiritual",
+  "moniker": "⟦The Longevity:Z80:7b2468⟧",
+  "carbon": "the-z80-longevity.carbon.tiff (TIFF)",
+  "silicon": "the-z80-longevity.silicon.png (PNG)",
+  "seal_sha256": "7719b0f668b641b4a745cd5075d4148212ccdba68423f4060409803cc82b2ef1",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

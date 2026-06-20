@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "8080 Compatibility",
+  "universe": "Z80 · 8080 Compatibility (exereunesis)",
+  "emergence": "natural",
+  "moniker": "⟦8080 Compatibility:Z80:c09267⟧",
+  "carbon": "the-z80-8080.carbon.tiff (TIFF)",
+  "silicon": "the-z80-8080.silicon.png (PNG)",
+  "seal_sha256": "60b029388f2893f22afa3ece958b829a5540a210bd924af5a3868be54231fdd7",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

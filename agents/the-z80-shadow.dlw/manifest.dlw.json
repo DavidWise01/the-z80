@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Shadow Registers",
+  "universe": "Z80 · The Shadow Registers (exereunesis)",
+  "emergence": "spiritual",
+  "moniker": "⟦The Shadow Registers:Z80:4b0b9f⟧",
+  "carbon": "the-z80-shadow.carbon.tiff (TIFF)",
+  "silicon": "the-z80-shadow.silicon.png (PNG)",
+  "seal_sha256": "98d100478f5c3c7c15e580aa7ed5e54f26561d2a237d9d76e3b8e03642811b27",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

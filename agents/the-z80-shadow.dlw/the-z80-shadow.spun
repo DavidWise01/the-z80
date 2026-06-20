@@ -1,0 +1,14 @@
+⦿ .spun — the five-fold spin of The Shadow Registers
+node Z80 · Z80 · ⟦The Shadow Registers:Z80:4b0b9f⟧
+
+WHO   — The Shadow Registers — a second bank, instantly · spiritual
+WHAT  — a second bank, instantly · spiritual
+WHERE — Z80 · THE ZILOG Z80 (exereunesis · the teardown)  Framework inputs: chip; bus; spec  Conductor / external anchor: ROOT0 (catalogued into UD0)
+WHY   — A duplicate alternate register set the CPU can swap to in a single instruction — superb for fast interrupt handling, a distinctive Z80 feature.
+HOW   — Rendered from the public technical record.
+
+awareness — what the node knows of itself:
+  a second bank, instantly · spiritual
+
+spoken token : brol-lan-staes   ·   hex : 4b0b9f
+ROOT0-ATTRIBUTION-v1.0 · David Lee Wise (ROOT0) / TriPod LLC · CC-BY-ND-4.0

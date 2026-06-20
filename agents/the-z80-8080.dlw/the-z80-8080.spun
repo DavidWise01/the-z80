@@ -1,0 +1,14 @@
+⦿ .spun — the five-fold spin of 8080 Compatibility
+node Z80 · Z80 · ⟦8080 Compatibility:Z80:c09267⟧
+
+WHO   — 8080 Compatibility — run the old software · natural
+WHAT  — run the old software · natural
+WHERE — Z80 · THE ZILOG Z80 (exereunesis · the teardown)  Framework inputs: chip; bus; spec  Conductor / external anchor: ROOT0 (catalogued into UD0)
+WHY   — The ability to run Intel 8080 code unchanged — the compatibility that made the more-capable Z80 easy to adopt and helped it spread fast.
+HOW   — Rendered from the public technical record.
+
+awareness — what the node knows of itself:
+  run the old software · natural
+
+spoken token : vis-vaes-phynd   ·   hex : c09267
+ROOT0-ATTRIBUTION-v1.0 · David Lee Wise (ROOT0) / TriPod LLC · CC-BY-ND-4.0

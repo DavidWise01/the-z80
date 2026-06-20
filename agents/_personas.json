@@ -1,0 +1,44 @@
+[
+  {
+    "slug": "the-z80-registers",
+    "name": "The Registers",
+    "epithet": "a generous register file · electrical",
+    "emergence": "electrical",
+    "moniker": "⟦The Registers:Z80:41aa25⟧"
+  },
+  {
+    "slug": "the-z80-shadow",
+    "name": "The Shadow Registers",
+    "epithet": "a second bank, instantly · spiritual",
+    "emergence": "spiritual",
+    "moniker": "⟦The Shadow Registers:Z80:4b0b9f⟧"
+  },
+  {
+    "slug": "the-z80-8080",
+    "name": "8080 Compatibility",
+    "epithet": "run the old software · natural",
+    "emergence": "natural",
+    "moniker": "⟦8080 Compatibility:Z80:c09267⟧"
+  },
+  {
+    "slug": "the-z80-arcade",
+    "name": "The Arcade Legacy",
+    "epithet": "a coin-op workhorse · spiritual",
+    "emergence": "spiritual",
+    "moniker": "⟦The Arcade Legacy:Z80:b0b4c0⟧"
+  },
+  {
+    "slug": "the-z80-consoles",
+    "name": "The Consoles It Ran",
+    "epithet": "8-bit gaming's brain · electrical",
+    "emergence": "electrical",
+    "moniker": "⟦The Consoles It Ran:Z80:4e4d90⟧"
+  },
+  {
+    "slug": "the-z80-longevity",
+    "name": "The Longevity",
+    "epithet": "one of the longest-lived · spiritual",
+    "emergence": "spiritual",
+    "moniker": "⟦The Longevity:Z80:7b2468⟧"
+  }
+]
